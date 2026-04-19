@@ -27,7 +27,7 @@ Orchestration: dbt Cloud with Git-based CI/CD workflow
   
 2. Marts: Kimball-style star schema:
 Dimensions: dim_customers, dim_products, dim_users
-Facts: fct_orders, fct_events, fct_subscriptions fct_customer_user_link
+Facts: fct_orders, fct_events, fct_subscriptions, fct_customer_user_link
 
 3. Analytics: Aggregated business metrics tables
 
